@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "babel-polyfill": "^6.26.0",
-    "browserslist": "^4.7.0",
+    "browserslist": "^4.16.5",
     "caniuse-lite": "^1.0.30000989",
     "echarts": "^4.2.1",
     "element-ui": "^2.4.11",
